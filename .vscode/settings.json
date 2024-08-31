@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "tad_ponto.h": "c"
+        "tad_ponto.h": "c",
+        "tad_list.h": "c",
+        "stdlib.h": "c"
     }
 }
